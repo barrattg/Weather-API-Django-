@@ -13,4 +13,5 @@ Directions for use
 
 
 
-
+Admin use: http://127.0.0.1:8000/admin/
+Using your code established Admin user/ password, you can add or remove authorised administrators here and view recent actions.
