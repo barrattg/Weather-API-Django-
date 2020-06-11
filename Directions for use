@@ -1,0 +1,16 @@
+# Weather-API-Django-
+
+Connects to openweathermap.org/api to find and display data.
+
+
+Directions for use
+
+
+1.Ensure Django installed on root.
+2.Navigate to projects folder on CMD and run $pipenv shell.
+3.On CMD $python manage.py runserver
+4.Using development server : http://127.0.0.1:8000/ connect via web browser to add/remove or alter listed cities.
+
+
+
+
